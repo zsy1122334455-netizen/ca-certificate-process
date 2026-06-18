@@ -1,0 +1,10 @@
+{
+  "name": "Remix: CA数字证书办理统一流程",
+  "description": "基于统一标准的个人及企业/机构数字证书全生命周期办理流程交互系统，集成多级核验、意愿确认与安全审计追踪。",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
